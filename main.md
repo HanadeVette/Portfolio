@@ -4,7 +4,11 @@ Welkom op mijn portfolio. Hierop laat ik een paar dingen zien die ik gemaakt heb
 
 ### Project 1
 
-![](resources/video/local_mp_game.mp4)
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true">
+    <source src="resources/video/local_mp_game.mp4" type="video/mp4">
+  </video>
+</figure>
 
 Dit is een van de games die ik gemaakt heb met Unity. Hierin was het de bedoeling dat je het met 2 spelers kon doen.
 Elke speler heeft volledige controls en interferen niet met elkaar. Ook zijn beide players compatible met controllers.
@@ -14,7 +18,11 @@ De camera beweegt ook mee met beide spelers zodat die altijd zichtbaar zijn.
 
 ### Project 2
 
-![](resources/video/minesweeper.mp4)
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true">
+    <source src="resources/video/minesweeper.mp4" type="video/mp4">
+  </video>
+</figure>
 
 Dit is een retro game die ik heb gemaakt in C#. Ben volledig vanuit scratch begonnen en ben hier ook erg trots op moet ik zeggen.
 De game heeft 4 moeilijkheden. Het spel window past zich automatisch aan de gekozen moeijlijkheid toe. Het renderen van de tiles is niet super efficient.
@@ -24,7 +32,11 @@ Maar het doet wat het moet doen. Je kunt het spel opnieuw doen als je verliest d
 
 ### Project 3
 
-![](resources/video/R6SS.mp4)
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true">
+    <source src="resources/video/R6SS.mp4" type="video/mp4">
+  </video>
+</figure>
 
 Dit is een website die wij recent gemaakt hebben op school. Alle data die je ziet (spelers en teams) worden uit een database gehaald met PHP.
 Je kunt ook de team/speler namen aanpassen. We hebben ook een tournament bracket toegevoegd met behulp van JQuery Bracket. Voor de layout maakten wij gebruik van Bulma.
