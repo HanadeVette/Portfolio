@@ -4,7 +4,7 @@
 
 <figure class="video_container">
   <video controls="true" allowfullscreen="true">
-    <source src="resources/video/local_mp_game.mp4" type="video/mp4" width="750px">
+    <source src="resources/video/local_mp_game.mp4" type="video/mp4" width="500px">
   </video>
 </figure>
 
@@ -18,7 +18,7 @@ De camera beweegt ook mee met beide spelers zodat die altijd zichtbaar zijn.
 
 <figure class="video_container">
   <video controls="true" allowfullscreen="true">
-    <source src="resources/video/minesweeper.mp4" type="video/mp4" width="750px">
+    <source src="resources/video/minesweeper.mp4" type="video/mp4" width="500px">
   </video>
 </figure>
 
@@ -32,7 +32,7 @@ Maar het doet wat het moet doen. Je kunt het spel opnieuw doen als je verliest d
 
 <figure class="video_container">
   <video controls="true" allowfullscreen="true">
-    <source src="resources/video/R6SS.mp4" type="video/mp4" width="750px">
+    <source src="resources/video/R6SS.mp4" type="video/mp4" width="500px">
   </video>
 </figure>
 
