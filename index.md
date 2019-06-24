@@ -19,7 +19,7 @@ De camera beweegt ook mee met beide spelers zodat die altijd zichtbaar zijn.
 ### Project 2
 
 <figure class="video_container">
-  <video controls="true" allowfullscreen="true">
+  <video controls="true" allowfullscreen="true" width="500px height="350px">
     <source src="resources/video/minesweeper.mp4" type="video/mp4">
   </video>
 </figure>
@@ -33,7 +33,7 @@ Maar het doet wat het moet doen. Je kunt het spel opnieuw doen als je verliest d
 ### Project 3
 
 <figure class="video_container">
-  <video controls="true" allowfullscreen="true">
+  <video controls="true" allowfullscreen="true" width="500px height="350px">
     <source src="resources/video/R6SS.mp4" type="video/mp4">
   </video>
 </figure>
