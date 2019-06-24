@@ -5,7 +5,7 @@ Welkom op mijn portfolio. Hierop laat ik een paar dingen zien die ik gemaakt heb
 ### Project 1
 
 <figure class="video_container">
-  <video controls="true" allowfullscreen="true">
+  <video controls="true" allowfullscreen="true" width="500px height="350px">
     <source src="resources/video/local_mp_game.mp4" type="video/mp4">
   </video>
 </figure>
