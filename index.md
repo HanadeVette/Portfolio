@@ -1,6 +1,4 @@
-# Portfolio Hana de Vette
-
-Welkom op mijn portfolio. Hierop laat ik een paar dingen zien die ik gemaakt heb.
+## Welkom op mijn portfolio. Hierop laat ik een paar dingen zien die ik gemaakt heb.
 
 ### Project 1
 
